@@ -15,7 +15,8 @@ curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Goog
 sudo chmod +x techcps100.sh
 ./techcps100.sh
 ```
-
+### 🚨 Note: After getting the Yes/No option. Check first three taks.
+then proceed further.
 ---
 
 ### Congratulations, you're all done with the lab 😄
